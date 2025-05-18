@@ -34,13 +34,13 @@ The entire model (or most of it) is retrained.
 Often used when the source and target tasks are significantly different.
 
 #### Applications of Transfer Learning
-##### Computer Vision: Object detection, face recognition, medical image analysis using CNNs.
+* Computer Vision: Object detection, face recognition, medical image analysis using CNNs.
 
-##### Natural Language Processing (NLP): Text classification, summarization, and question answering with pre-trained models like BERT, GPT.
+* Natural Language Processing (NLP): Text classification, summarization, and question answering with pre-trained models like BERT, GPT.
 
-##### Speech and Audio Processing
+* Speech and Audio Processing
 
-##### Time Series Analysis
+* Time Series Analysis
 
 #### Conclusion
 Transfer learning is a powerful strategy that enhances efficiency and performance, particularly in deep learning. It allows us to build strong models even with limited data by leveraging previously learned knowledge. Today, it is widely adopted in both industry and academic research for various AI applications.
