@@ -1,4 +1,4 @@
-# Transfer_learning
+# TRANSFER LEARNİNG 
 #### What is Transfer Learning?
 Transfer learning is a machine learning technique where a model trained on one task is reused or adapted for a different but related task. This approach is especially useful in deep learning, where training a model from scratch often requires vast amounts of data and computational resources.
 
@@ -20,7 +20,7 @@ Improving generalization: Learned features from one task can be helpful for anot
 
 * Fine-tune the model: Some or all of the layers are retrained on the new dataset.
 
-#### Types of Transfer Learning
+#### Types of Transfer Learning :
 ##### Feature Extraction:
 
 The pre-trained model’s layers are used as fixed feature extractors.
@@ -33,7 +33,7 @@ The entire model (or most of it) is retrained.
 
 Often used when the source and target tasks are significantly different.
 
-#### Applications of Transfer Learning
+#### Applications of Transfer Learning :
 * Computer Vision: Object detection, face recognition, medical image analysis using CNNs.
 
 * Natural Language Processing (NLP): Text classification, summarization, and question answering with pre-trained models like BERT, GPT.
@@ -42,5 +42,5 @@ Often used when the source and target tasks are significantly different.
 
 * Time Series Analysis
 
-#### Conclusion
+#### Conclusion :
 Transfer learning is a powerful strategy that enhances efficiency and performance, particularly in deep learning. It allows us to build strong models even with limited data by leveraging previously learned knowledge. Today, it is widely adopted in both industry and academic research for various AI applications.
