@@ -1,4 +1,4 @@
-# TRANSFER LEARNİNG:
+# TRANSFER LEARNİNG :
 #### What is Transfer Learning?
 Transfer learning is a machine learning technique where a model trained on one task is reused or adapted for a different but related task. This approach is especially useful in deep learning, where training a model from scratch often requires vast amounts of data and computational resources.
 
